@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+myenv/
+venv/
+.ipynb_checkpoints/
+notebook/
+.git/
+.gitignore
+README.md
